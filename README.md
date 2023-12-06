@@ -1,5 +1,8 @@
 # Relatório de High-Throughput Sequencing para DNA e RNA em Carvalhos da Província Florestal da Califórnia
 
+<a href="docs/readme_en.md">English Version</a>
+
+
 Este repositório contém um relatório detalhado sobre um projeto de sequenciamento em larga escala de DNA e RNA em espécies de carvalho encontradas na Província Florestal da Califórnia. O estudo foi conduzido para obter insights genômicos valiosos sobre essas árvores emblemáticas, contribuindo para a compreensão da biodiversidade e ecologia da região.
 
 ### Conteúdo do Repositório
